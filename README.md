@@ -10,3 +10,4 @@ It can solve simple debugging tasks and can fix easy errors like syntax that you
 Cons: <br>
 If you ask it a vague prompt or not exact it can actually return faulty code that either doesn't compile or work <br>
 When you use chat GPT it can be argued that you do not learn as well if you did it with no help <br>
+For classes Chat GPT is discouraged for writing code, also while companies may be different there might be rules on what is allowed and chat GPT might not be allowed <br>
