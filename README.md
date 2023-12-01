@@ -1,5 +1,4 @@
 # AITopFive
-ai generated top five social media site  <br> 
 Quinn Anderson (quinnanderson), Mason Gelletly (masongelletly), Caroline Joseph (carolinej), Tatiana Monteiro (mtatiana20)   <br> 
 # Description of Project
 This project creates a "Top 5 Social Media Website" that allows users to create top 5 lists about a variety of topics. Furthermore, <br>
