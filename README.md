@@ -1,8 +1,8 @@
 # AITopFive
 Quinn Anderson (quinnanderson), Mason Gelletly (masongelletly), Caroline Joseph (carolinej), Tatiana Monteiro (mtatiana20)   <br> 
 # Description of Project
-This project creates a "Top 5 Social Media Website" that allows users to create top 5 lists about a variety of topics. Furthermore, <br>
-users can display their lists to other users and engage in discussions regarding their rankings. <be>
+This project creates a "Top 5 Social Media Program" that allows users to create top 5 lists about a variety of topics. Furthermore, <br>
+users can display their lists to other users and engage in discussions regarding their rankings. Users can also view categories, add new categories, and add to a list. <be>
 <br>
 # Review of Pros and Cons of ChatGPT and Software Engineering
 Pros: <br>
