@@ -1,3 +1,11 @@
-
 Tyler Buxton (tbux) Krishna Nair (krishnanair) Patrick Johnson (patrick91) Hunter Jaques-Pownall (hunjaq) Yoon Lee (yoonl18)
+
+The generated code seems to be backend only with only print statements. The backend seems to be decent enough to save some of the data. An example of the backend displaying is below. Would be better if it was using html.
+
+print("\nTop Five Social Media Application\n")
+    print("1. View Categories")
+    print("2. Add a Category")
+    print("3. View Top 5 List in a Category")
+    print("4. Add to Top 5 List")
+    print("5. Exit")
 
