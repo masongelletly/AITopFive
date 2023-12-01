@@ -1,6 +1,10 @@
 # AITopFive
 ai generated top five social media site  <br> 
 Quinn Anderson (quinnanderson), Mason Gelletly (masongelletly), Caroline Joseph (carolinej), Tatiana Monteiro (mtatiana20)   <br> 
+# Description of Project
+This project creates a "Top 5 Social Media Website" that allows users to create top 5 lists about a variety of topics. Furthermore, <br>
+users can display their lists to other users and engage in discussions regarding their rankings. <be>
+<br>
 # Review of Pros and Cons of ChatGPT and Software Engineering
 Pros: <br>
 You can program quicker, and you can write simple code with just a prompt rather than typing everything out <br>
