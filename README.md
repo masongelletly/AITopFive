@@ -1,3 +1,3 @@
 # AITopFive
-ai generated top five social media site  ( <br> )
-Quinn Anderson (quinnanderson)  ( <br> )
+ai generated top five social media site  <br> 
+Quinn Anderson (quinnanderson)   <br> 
