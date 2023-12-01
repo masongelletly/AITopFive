@@ -1,6 +1,6 @@
 # AITopFive
 ai generated top five social media site  <br> 
-Quinn Anderson (quinnanderson)   <br> 
+Quinn Anderson (quinnanderson), Mason Gelletly (masongelletly), Caroline Joseph (carolinej), Tatiana Monteiro (mtatiana20)   <br> 
 # Review of Pros and Cons of ChatGPT and Software Engineering
 Pros: <br>
 You can program quicker, and you can write simple code with just a prompt rather than typing everything out <br>
